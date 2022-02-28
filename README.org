@@ -1,4 +1,4 @@
-* how to proceed 
+* How to synchronise  Autheorea with a (private) github account
 
     1. Sign up to autheora
     2. Sign up to github
@@ -18,5 +18,6 @@
     6. Change your file when you finish return to that page
     7. Now press: goto article-git-function
     8. Press push, (if I change something then press pull)
-    9. That's it: happy hacking!
+    9. Now go to your repository, add a collaborator! 
+    10. That's it: happy hacking!
 
